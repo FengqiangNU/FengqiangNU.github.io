@@ -1,0 +1,8 @@
+@inproceedings{yeh2016streamlined,
+  title={A streamlined photometric stereo framework for cultural heritage},
+  author={Yeh, Chia-Kai and Matsuda, Nathan and Huang, Xiang and Li, Fengqiang and Walton, Marc and Cossairt, Oliver},
+  booktitle={European Conference on Computer Vision},
+  pages={738--752},
+  year={2016},
+  organization={Springer}
+}

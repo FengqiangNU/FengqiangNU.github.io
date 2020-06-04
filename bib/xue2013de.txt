@@ -1,0 +1,8 @@
+@incollection{xu2013delineating,
+  title={Delineating 3D angiogenic sprouting in OCT images via multiple active contours},
+  author={Xu, Ting and Li, Fengqiang and Nguyen, Duc-Huy T and Chen, Christopher S and Zhou, Chao and Huang, Xiaolei},
+  booktitle={Augmented Reality Environments for Medical Imaging and Computer-Assisted Interventions},
+  pages={231--240},
+  year={2013},
+  publisher={Springer}
+}

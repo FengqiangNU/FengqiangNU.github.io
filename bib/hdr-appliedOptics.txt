@@ -1,0 +1,10 @@
+@article{li2017high,
+  title={High-depth-resolution range imaging with multiple-wavelength superheterodyne interferometry using 1550-nm lasers},
+  author={Li, Fengqiang and Yablon, Joshua and Velten, Andreas and Gupta, Mohit and Cossairt, Oliver},
+  journal={Applied optics},
+  volume={56},
+  number={31},
+  pages={H51--H56},
+  year={2017},
+  publisher={Optical Society of America}
+}

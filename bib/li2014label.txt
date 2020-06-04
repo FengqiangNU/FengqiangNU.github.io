@@ -1,0 +1,10 @@
+@article{li2014label,
+  title={Label-free evaluation of angiogenic sprouting in microengineered devices using ultrahigh-resolution optical coherence microscopy},
+  author={Li, Fengqiang and Xu, Ting and Nguyen, Duc-Huy T and Huang, Xiaolei and Chen, Christopher S and Zhou, Chao},
+  journal={Journal of biomedical optics},
+  volume={19},
+  number={1},
+  pages={016006},
+  year={2014},
+  publisher={International Society for Optics and Photonics}
+}

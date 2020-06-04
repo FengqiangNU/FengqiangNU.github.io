@@ -1,0 +1,8 @@
+@inproceedings{yeh2017shape,
+  title={Shape-from-shifting: Uncalibrated photometric stereo with a mobile device},
+  author={Yeh, Chia-Kai and Li, Fengqiang and Pastorelli, Gianluca and Walton, Marc and Katsaggelos, Aggelos K and Cossairt, Oliver},
+  booktitle={2017 IEEE 13th International Conference on e-Science (e-Science)},
+  pages={551--558},
+  year={2017},
+  organization={IEEE}
+}
