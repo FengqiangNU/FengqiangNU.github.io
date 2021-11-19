@@ -53,6 +53,66 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='nightsight_image'><img src='images/nlos_before.png' width="160" style="border-style: none"></div>
+                <img src='images/nlos_before.png' width="160" style="border-style: none">
+              </div>
+              <script type="text/javascript">
+                function nightsight_start() {
+                  document.getElementById('nightsight_image').style.opacity = "1";
+                }
+
+                function nightsight_stop() {
+                  document.getElementById('nightsight_image').style.opacity = "0";
+                }
+                nightsight_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.nature.com/articles/s41467-021-26776-w">
+                <papertitle>Fast non-line-of-sight imaging with high-resolution and wide field of view using synthetic wavelength holography</papertitle>
+              </a>
+              <br>
+              Florian Willomitzer,
+              Prasanna V. Rangarajan,
+              <strong>Fengqiang Li</strong>,
+              Muralidhar M. Balaji,
+              Marc P. Christensen,
+              Oliver Cossairt
+
+              <br>
+              <em>Nature Communications</em>, 2021
+              <br>
+              <p></p>
+              <p>Non-line-of-sight imaging with synthetic wavelength holography.</p>
+
+              <a href="https://3dim.northwestern.edu/project/swh/">
+                [Project webpage]
+              </a>
+
+              <a href="https://arxiv.org/abs/1912.11438">
+                [ArXiv]
+              </a>
+
+              <a href="https://www.nature.com/articles/s41467-021-26776-w">
+                [Paper]
+              </a>
+
+              <a href="https://news.northwestern.edu/stories/2021/11/new-holographic-camera-sees-the-unseen-with-high-precision/">
+                [Northwestern news]
+              </a>
+
+              <a href=" bib/nlos.txt">
+                [BibTex]
+              </a>
+
+            </td>
+          </tr>
+
+
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -217,48 +277,6 @@
             </td>
           </tr>
 
-
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='nightsight_image'><img src='images/nlos_before.png' width="160" style="border-style: none"></div>
-                <img src='images/nlos_before.png' width="160" style="border-style: none">
-              </div>
-              <script type="text/javascript">
-                function nightsight_start() {
-                  document.getElementById('nightsight_image').style.opacity = "1";
-                }
-
-                function nightsight_stop() {
-                  document.getElementById('nightsight_image').style.opacity = "0";
-                }
-                nightsight_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/1912.11438">
-                <papertitle>Synthetic Wavelength Holography: An Extension of Gabor’s Holographic Principle to Imaging with Scattered Wavefronts</papertitle>
-              </a>
-              <br>
-              Florian Willomitzer,
-              Prasanna V. Rangarajan,
-              <strong>Fengqiang Li</strong>,
-              Muralidhar M. Balaji,
-              Marc P. Christensen,
-              Oliver Cossairt
-
-              <br>
-              <em>https://arxiv.org/abs/1912.11438</em>, 2019
-              <br>
-              <p></p>
-              <p>Non-line-of-sight imaging with synthetic wavelength holography.</p>
-
-              <a href=" bib/nlos.txt">
-                [BibTex]
-              </a>
-
-            </td>
-          </tr>
 
 
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
