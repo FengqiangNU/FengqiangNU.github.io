@@ -1,6 +1,10 @@
-@article{willomitzer2019synthetic,
-  title={Synthetic Wavelength Holography: An Extension of Gabor's Holographic Principle to Imaging with Scattered Wavefronts},
+@article{willomitzer2021fast,
+  title={Fast non-line-of-sight imaging with high-resolution and wide field of view using synthetic wavelength holography},
   author={Willomitzer, Florian and Rangarajan, Prasanna V and Li, Fengqiang and Balaji, Muralidhar M and Christensen, Marc P and Cossairt, Oliver},
-  journal={arXiv preprint arXiv:1912.11438},
-  year={2019}
+  journal={Nature Communications},
+  volume={12},
+  number={1},
+  pages={1--11},
+  year={2021},
+  publisher={Nature Publishing Group}
 }

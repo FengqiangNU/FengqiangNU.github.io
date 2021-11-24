@@ -1,0 +1,7 @@
+@article{li2021exploiting,
+  title={Exploiting wavelength diversity for high resolution time-of-flight 3D imaging},
+  author={Li, Fengqiang and Willomitzer, Florian and Balaji, Muralidhar Madabhushi and Rangarajan, Prasana and Cossairt, Oliver},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  publisher={IEEE}
+}
