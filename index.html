@@ -53,7 +53,51 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='nightsight_image'><img src='images/adaptive-lidar2021.png' width="160" style="border-style: none"></div>
+                <img src='images/adaptive-lidar2021.png' width="160" style="border-style: none">
+              </div>
+              <script type="text/javascript">
+                function nightsight_start() {
+                  document.getElementById('nightsight_image').style.opacity = "1";
+                }
 
+                function nightsight_stop() {
+                  document.getElementById('nightsight_image').style.opacity = "0";
+                }
+                nightsight_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://ieeexplore.ieee.org/abstract/document/9723580">
+                <papertitle>Adaptive Illumination based Depth Sensing using Deep Learning</papertitle>
+              </a>
+              <br>
+              Qiqin Dai,
+              <strong>Fengqiang Li</strong>,
+              Oliver Cossairt,
+              Aggelos K. Katsaggelos
+
+              <br>
+              <em>IEEE Transactions on Computational Imaging (TCI)</em>, 2022
+              <br>
+              <p></p>
+              <p>Adapptive illumination for depth sesning such as LiDAR.</p>
+
+              <a href="https://ieeexplore.ieee.org/abstract/document/9723580">
+                [Paper]
+              </a>
+
+              <a href="https://arxiv.org/abs/2103.12297">
+                [ArXiv]
+              </a>
+
+            </td>
+          </tr>
+
+          
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -112,46 +156,6 @@
             </td>
           </tr>
 
-
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='nightsight_image'><img src='images/adaptive-lidar2021.png' width="160" style="border-style: none"></div>
-                <img src='images/adaptive-lidar2021.png' width="160" style="border-style: none">
-              </div>
-              <script type="text/javascript">
-                function nightsight_start() {
-                  document.getElementById('nightsight_image').style.opacity = "1";
-                }
-
-                function nightsight_stop() {
-                  document.getElementById('nightsight_image').style.opacity = "0";
-                }
-                nightsight_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2103.12297">
-                <papertitle>Adaptive Illumination based Depth Sensing using Deep Learning</papertitle>
-              </a>
-              <br>
-              Qiqin Dai,
-              <strong>Fengqiang Li</strong>,
-              Oliver Cossairt,
-              Aggelos K. Katsaggelos
-
-              <br>
-              <em>ArXiv</em>, 2021
-              <br>
-              <p></p>
-              <p>Adapptive illumination for depth sesning such as LiDAR.</p>
-
-              <a href="https://arxiv.org/abs/2103.12297">
-                [ArXiv]
-              </a>
-
-            </td>
-          </tr>
 
 
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
@@ -670,6 +674,12 @@
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Patents</heading>
+
+              <p>  <strong>Fengqiang Li</strong>, Zihe Gao <a href="https://patents.google.com/patent/US11194160B1/en"> US11194160 </a>, Granted, 2021
+              </p>
+
+              <p>  <strong>Fengqiang Li</strong>, Zihe Gao, Michael Hall, Zhaoming Zhu, Shuochen Su, Huixuan Tang, Xinqiao Liu, Nicholas Daniel Trail <a href="https://patents.google.com/patent/US11195291B1/en"> US11195291 </a>, Granted, 2021
+              </p>
 
               <p>  <strong>Fengqiang Li</strong>, Michael Hall <a href="https://patents.google.com/patent/US10939089B1/en"> US10939089 </a>, Granted, 2021
               </p>
